@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "915c787a-914d-479e-bb1c-3222a98388b9"
+      }
+    },
+    "owner": "anamartinezm"
   }
 }
